@@ -34,3 +34,6 @@ Besides, it provides a user-friendly interface that suggests complete sentences 
 6. 'Send button' is used to send the mail to the addressed user with priority attached. This priority is shown with a red-colored exclamatory mark for a higher value and a down arrow symbol for low priority ones. High or low priority is based on the values obtained from the range 1-5. Number 1 or number 2 indicates high priority in emails whereas Number 4 or Number 5 indicates low priority in emails. Number 3 indicates neutrality in prioritization.
 
 7. When a person clicks on a received email, an alert that indicates the priority of that particular email is poped up as a notice.
+
+### Video Demo:
+[![Alt text](https://img.youtube.com/vi/ExurprktAm8/0.jpg)](https://www.youtube.com/watch?v=ExurprktAm8)
