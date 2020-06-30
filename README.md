@@ -1,6 +1,6 @@
 # NLP-Project
 <p align="center">
-Messaging Application with Next Word Prediction, Word Completion, Spelling Correction and Automatic Priority Assignment
+<b>Messaging Application with Next Word Prediction, Word Completion, Spelling Correction and Automatic Priority Assignment</b>
   </p>
 
 ### Next Word Prediction:
