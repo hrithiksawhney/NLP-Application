@@ -1,7 +1,7 @@
 # NLP-Project
 Messaging Application with Next Word Prediction, Word Completion, Spelling Correction and Automatic Priority Assignment
 
-Next Word Prediction:
+## Next Word Prediction:
 
 Next Word Prediction or what is also called Language Modeling is the task of predicting what word comes next. It is one of the fundamental tasks of NLP and has many applications. The app provides suggestions for words in the sentence using an N-gram Language Model to make the typing process more fast and easy.
 
