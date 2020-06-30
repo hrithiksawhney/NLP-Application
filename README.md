@@ -36,4 +36,4 @@ Besides, it provides a user-friendly interface that suggests complete sentences 
 7. When a person clicks on a received email, an alert that indicates the priority of that particular email is poped up as a notice.
 
 ### Video Demo:
-[![](http://img.youtube.com/vi/ExurprktAm8/0.jpg)](http://www.youtube.com/watch?v=ExurprktAm8 "NLP Project Video Demo")
+[![Alt text](https://img.youtube.com/vi/ExurprktAm8/0.jpg)](https://www.youtube.com/watch?v=ExurprktAm8 "NLP Project Video Demo")
