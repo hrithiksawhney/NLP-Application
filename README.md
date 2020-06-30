@@ -5,6 +5,10 @@ Messaging Application with Next Word Prediction, Word Completion, Spelling Corre
 
 Next Word Prediction or what is also called Language Modeling is the task of predicting what word comes next. It is one of the fundamental tasks of NLP and has many applications. The app provides suggestions for words in the sentence using an N-gram Language Model to make the typing process more fast and easy.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44416769/86110322-102dc900-bae3-11ea-9f4c-d21f5518a286.png">
+</p>
+
 ### Word Completion:
 
 Autocomplete, or word completion, is a feature in which an application predicts the rest of a word a user is typing. The app provides this feature by implementing DFS traversal on a trie data stucture.
