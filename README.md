@@ -50,4 +50,4 @@ Besides, it provides a user-friendly interface that suggests complete sentences 
 7. When a person clicks on a received email, an alert that indicates the priority of that particular email is poped up as a notice.
 
 ### Video Demo:
-[![Alt text](https://i9.ytimg.com/vi/ExurprktAm8/mq2.jpg?sqp=CLj56_cF&rs=AOn4CLDA7pBadPs1Vk32_fftAdcYQhQlJg)](https://www.youtube.com/watch?v=ExurprktAm8)
+[![Alt text](https://user-images.githubusercontent.com/44416769/86146678-2903a200-bb16-11ea-89f4-fe1f54458081.png)](https://www.youtube.com/watch?v=ExurprktAm8)
