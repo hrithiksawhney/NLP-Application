@@ -21,16 +21,16 @@ Besides, it provides a user-friendly interface that suggests complete sentences 
 
 ### Working :
 
-1)Initially, A file named Chilkat main.py is run so as to start the process.
+1. Initially, A file named Chilkat main.py is run so as to start the process.
 
-2)Second,nlp.py file is run to set up the environment. This opens up the main interface that contains a header to send the mail with subject to respective users and a message area where the actual message to be sent is typed.
+2. Second,nlp.py file is run to set up the environment. This opens up the main interface that contains a header to send the mail with subject to respective users and a message area where the actual message to be sent is typed.
 
-3)'Complete button' is used for word prediction that suggests a complete word to the letter typed.
+3. 'Complete button' is used for word prediction that suggests a complete word to the letter typed.
 
-4)'Next button' is used for the next word prediction that suggests the word that is likely to come after the word typed.
+4. 'Next button' is used for the next word prediction that suggests the word that is likely to come after the word typed.
 
-5)'Correction button' displays the corrections to be done if any present.
+5. 'Correction button' displays the corrections to be done if any present.
 
-6)'Send button' is used to send the mail to the addressed user with priority attached. This priority is shown with a red-colored exclamatory mark for a higher value and a down arrow symbol for low priority ones. High or low priority is based on the values obtained from the range 1-5. Number 1 or number 2 indicates high priority in emails whereas Number 4 or Number 5 indicates low priority in emails. Number 3 indicates neutrality in prioritization.
+6. 'Send button' is used to send the mail to the addressed user with priority attached. This priority is shown with a red-colored exclamatory mark for a higher value and a down arrow symbol for low priority ones. High or low priority is based on the values obtained from the range 1-5. Number 1 or number 2 indicates high priority in emails whereas Number 4 or Number 5 indicates low priority in emails. Number 3 indicates neutrality in prioritization.
 
-7)When a person clicks on a received email, an alert that indicates the priority of that particular email is poped up as a notice.
+7. When a person clicks on a received email, an alert that indicates the priority of that particular email is poped up as a notice.
