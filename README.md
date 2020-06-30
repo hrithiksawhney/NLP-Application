@@ -23,7 +23,7 @@ Besides, it provides a user-friendly interface that suggests complete sentences 
 
 1. Initially, A file named Chilkat main.py is run so as to start the process.
 
-2. Second,nlp.py file is run to set up the environment. This opens up the main interface that contains a header to send the mail with subject to respective users and a message area where the actual message to be sent is typed.
+2. Second, nlp.py file is run to set up the environment. This opens up the main interface that contains a header to send the mail with subject to respective users and a message area where the actual message to be sent is typed.
 
 3. 'Complete button' is used for word prediction that suggests a complete word to the letter typed.
 
