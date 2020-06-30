@@ -23,6 +23,10 @@ Autocomplete, or word completion, is a feature in which an application predicts 
 
 A spell checker is a software feature that checks for misspellings in a text. Spell-checking features are often embedded in software or services, such as a word processor, email client, electronic dictionary, or search engine. The app identifies misspelt words and offers alternatives using the trie data structure.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44416769/86111645-a1ea0600-bae4-11ea-983b-655b5af5f754.png">
+</p>
+
 ### Priority Emails:
 
 Emails flow into the inbox and remain for eternity until we delete them or go out of storage. It is a toilsome work to find significant mails among these piled up emails. This complication is now resolved using the "word prediction and prioritization" which prioritizes the incoming mails based on the average priority of all the words present in an email. On your outlook message tab, a high prioritized mail would be shown with a red-colored exclamatory mark and a low prioritized mail with a down arrow symbol. Thus, this distinguishes various emails based on their priority and also allows users to be beware of spam mails.
