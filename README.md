@@ -1,4 +1,4 @@
-# NLP-Project
+# NLP-Application
 <p align="center">
 <b>Messaging Application with Next Word Prediction, Word Completion, Spelling Correction and Automatic Priority Assignment</b>
   </p>
